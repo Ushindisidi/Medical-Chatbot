@@ -4,3 +4,5 @@ pinecone-client
 langchain
 flask
 python-dotenv
+langchain-pinecone
+streamlit
