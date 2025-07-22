@@ -1,0 +1,7 @@
+venv/
+.env
+.egg
+__pycache__/
+*.pyc
+*.pyo
+medical_chatbot_env/
