@@ -5,3 +5,6 @@ __pycache__/
 *.pyc
 *.pyo
 medical_chatbot_env/
+embedding_cache/
+models--sentence-transformers--all-MiniLM-L6-v2/
+
